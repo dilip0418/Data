@@ -7,7 +7,7 @@ const projects = [
         githubUrl: "https://github.com/dilip0418/Credit-Card-Management-System",
         // stats: { stars: 245, forks: 56 },
         contributors: [
-            { name: "Dilip", role: "Software Engineer", image: MyPic }
+            // { name: "Dilip", role: "Software Engineer", image: MyPic }
         ],
     },
     {
@@ -17,7 +17,7 @@ const projects = [
         technologies: ["SpringBoot", "MySQL", "Spring Security", "JWT", "Spring Data JPA"],
         githubUrl: "https://github.com/dilip0418/EasyCredsSpringBoot",
         contributors: [
-            { name: "Dilip", role: "Software Engineer", image: MyPic }
+            // { name: "Dilip", role: "Software Engineer", image: MyPic }
         ],
     },
     {
@@ -28,9 +28,9 @@ const projects = [
         technologies: ["SpringBoot", "Angular", "MySQL", "Spring Security", "Spring Data JPA", "JWT"],
         // stats: { stars: 128, forks: 34 },
         contributors: [
-            { name: "Dilip", role: "Software Engineer", image: MyPic },
-            { name: "Ganesh", role: "Software Engineer", image: ganesh },
-            { name: "Aravindha Samy", role: "Software Engineer", image: aravind },
+            // { name: "Dilip", role: "Software Engineer", image: MyPic },
+            // { name: "Ganesh", role: "Software Engineer", image: ganesh },
+            // { name: "Aravindha Samy", role: "Software Engineer", image: aravind },
         ],
     },
     {
@@ -41,7 +41,7 @@ const projects = [
         liveUrl: "https://dilip0418.github.io/portfolio-v2/",
         technologies: ["HTML/CSS", "Vanila Js", "Bootstrap", "Github Pages"],
         contributors: [
-            { name: "Dilip", role: "Software Engineer", image: MyPic }
+            // { name: "Dilip", role: "Software Engineer", image: MyPic }
         ],
     },
     {
@@ -51,10 +51,10 @@ const projects = [
         githubUrl: "https://github.com/dilip0418/Plagiarism-Detector",
         technologies: ["Python", "FastAPI", "HTML/CSS", "Tessarct-OCR", "Google Search API", "Web Scraping"],
         contributors: [
-            { name: "Dilip", role: "Software Engineer", image: MyPic },
-            { name: "Ganesh", role: "Software Engineer", image: ganesh },
-            { name: "Prathap Reddy", role: "Frontend Dev", image: prathap },
-            { name: "Harshitha", role: "Software Engineer" },
+            // { name: "Dilip", role: "Software Engineer", image: MyPic },
+            // { name: "Ganesh", role: "Software Engineer", image: ganesh },
+            // { name: "Prathap Reddy", role: "Frontend Dev", image: prathap },
+            // { name: "Harshitha", role: "Software Engineer" },
         ],
     },
     {
@@ -65,7 +65,7 @@ const projects = [
         technologies: ["Vanila JS", "WeatherStack API", "HTML/CSS", "Bootstrap"],
         liveUrl: "https://dilip-weather-app.netlify.app/",
         contributors: [
-            { name: "Dilip", role: "Software Engineer", image: MyPic }
+            // { name: "Dilip", role: "Software Engineer", image: MyPic }
         ],
     }
 ];
