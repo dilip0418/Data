@@ -9,6 +9,6 @@ const projects = [
         "description": "A RESTful API for an e-commerce platform built with Spring Boot.",
         "technologies": ["Spring Boot", "Java", "MySQL"]
     }
-];
+]
 
 export default projects;
